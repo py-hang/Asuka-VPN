@@ -1,0 +1,25 @@
+E:\Visual Studio\Asuka VPN\Asuka VPN\bin\Debug\net6.0-windows\Asuka VPN.exe
+E:\Visual Studio\Asuka VPN\Asuka VPN\bin\Debug\net6.0-windows\Resources\logo.png
+E:\Visual Studio\Asuka VPN\Asuka VPN\bin\Debug\net6.0-windows\Asuka VPN.deps.json
+E:\Visual Studio\Asuka VPN\Asuka VPN\bin\Debug\net6.0-windows\Asuka VPN.runtimeconfig.json
+E:\Visual Studio\Asuka VPN\Asuka VPN\bin\Debug\net6.0-windows\Asuka VPN.dll
+E:\Visual Studio\Asuka VPN\Asuka VPN\bin\Debug\net6.0-windows\Asuka VPN.pdb
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.csproj.AssemblyReference.cache
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\mainWindow.g.cs
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\programWindow.g.cs
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\App.g.cs
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN_Content.g.cs
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN_MarkupCompile.cache
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN_MarkupCompile.lref
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\mainWindow.baml
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\programWindow.baml
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.g.resources
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.AssemblyInfoInputs.cache
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.AssemblyInfo.cs
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.dll
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\refint\Asuka VPN.dll
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.pdb
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\Asuka VPN.genruntimeconfig.cache
+E:\Visual Studio\Asuka VPN\Asuka VPN\obj\Debug\net6.0-windows\ref\Asuka VPN.dll
