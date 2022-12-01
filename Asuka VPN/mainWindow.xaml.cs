@@ -23,7 +23,7 @@ namespace Asuka_VPN
     {
         public mainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); 
             var _mainWindow = Application.Current.Windows.Cast<Window>().FirstOrDefault(window => window is mainWindow) as mainWindow;
             this.Border_Fg.Visibility = Visibility.Hidden;
             this.Border_SU.Visibility = Visibility.Hidden;
